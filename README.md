@@ -1,2 +1,2 @@
 # Stats
-Statistics page for inter IIT Website
+Statistics page for inter IIT Websitethats a github soo cool
